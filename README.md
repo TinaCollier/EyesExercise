@@ -1,6 +1,7 @@
 # Eyes Exercise
 
 <img src= "oneeye.png" width='300'/>
+
 ## What Is It?
 For this exercise, we had to create a second eye and make both eyes follow the cursor. Run the program by dragging eyes.html into your browser. Move your mouse around and the eyes will track the movement.
 
